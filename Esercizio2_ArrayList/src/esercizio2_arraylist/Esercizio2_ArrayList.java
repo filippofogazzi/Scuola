@@ -5,6 +5,7 @@ import java.util.*;
 /**
  * @author Filippo Fogazzi
  */
+
 public class Esercizio2_ArrayList {
 
     public static void main(String[] args) {
